@@ -1,12 +1,14 @@
-`
+`//Шарапов В.Н. ИВТ-20
 
 package com.company;
 
 public class Triangle {          // класс треугольник
-    /** сторона a */
     private double a;               // сторона а
+    
     private double b;               // сторона b
+    
     private double c;               // сторона c
+    
 
     public Triangle() {          // Констр. По умолчанию
         set_a(0);
@@ -146,5 +148,4 @@ public class Triangle {          // класс треугольник
 
 
 }
-
 `
