@@ -1,5 +1,4 @@
 `
-//Шарапов В.Н. ИВТ-20
 
 package com.company;
 
