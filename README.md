@@ -1,1 +1,2 @@
 # JavaClass
+Класс на Java
