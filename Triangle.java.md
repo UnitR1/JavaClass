@@ -4,6 +4,7 @@
 package com.company;
 
 public class Triangle {          // класс треугольник
+    /** сторона a */
     private double a;               // сторона а
     private double b;               // сторона b
     private double c;               // сторона c
@@ -146,4 +147,5 @@ public class Triangle {          // класс треугольник
 
 
 }
+
 `
